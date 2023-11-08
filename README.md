@@ -7,12 +7,21 @@ La página web Hoodsy es una tienda en línea que sirve de catálogo de producto
 
 
 
-## Technologies
+## Technologias
 Project is created with:
-* Next.js 
+* Next.js
+* Tailwind
 * Supabase
 * create-t3-app
 	
+## Integrantes del equipo
+| **Juan Pablo Torres(Frontend)**
+| **Santiago Sonzini(Backend)**
+|<a href="https://www.linkedin.com/in/santiago-sonzini-74b068188/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+| **Giselle M. Specht(QA)**
+|<a href="http://www.linkedin.com/in/giselle-m-specht/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
 ## Setup
 
 Primero clona el repositorio.
